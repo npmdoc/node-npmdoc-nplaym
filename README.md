@@ -1,9 +1,14 @@
-# api documentation for  [nplaym (v1.3.8)](https://github.com/JonathanUsername/nplaym#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nplaym.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nplaym) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nplaym.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nplaym)
+# npmdoc-nplaym
+
+#### api documentation for  [nplaym (v1.3.8)](https://github.com/JonathanUsername/nplaym#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nplaym.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nplaym) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nplaym.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nplaym)
+
 #### A wrapper for npm so you can play a Space-Invaders-a-like game while installing.
 
-[![NPM](https://nodei.co/npm/nplaym.png?downloads=true)](https://www.npmjs.com/package/nplaym)
+[![NPM](https://nodei.co/npm/nplaym.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nplaym)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nplaym/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-nplaym_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nplaym/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-nplaym/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-nplaym/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nplaym/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nplaym/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-nplaym/build/screenCapture.npmPackageListing.svg)
 
@@ -52,13 +57,11 @@
     "license": "ISC",
     "maintainers": [
         {
-            "name": "jonathanking",
-            "email": "jonathan.j.king@gmail.com"
+            "name": "jonathanking"
         }
     ],
     "name": "nplaym",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/JonathanUsername/nplaym.git"
@@ -71,16 +74,6 @@
     "version": "1.3.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module nplaym](#apidoc.module.nplaym)
-
-
-
-# <a name="apidoc.module.nplaym"></a>[module nplaym](#apidoc.module.nplaym)
 
 
 
