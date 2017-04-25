@@ -1,6 +1,6 @@
 # npmdoc-nplaym
 
-#### api documentation for  [nplaym (v1.3.8)](https://github.com/JonathanUsername/nplaym#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nplaym.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nplaym) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nplaym.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nplaym)
+#### basic api documentation for  [nplaym (v1.3.8)](https://github.com/JonathanUsername/nplaym#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nplaym.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nplaym) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nplaym.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nplaym)
 
 #### A wrapper for npm so you can play a Space-Invaders-a-like game while installing.
 
